@@ -1,0 +1,35 @@
+/* Common Style */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+    width: 60%;
+    margin: auto;
+}
+
+/* Add Task Section Style */
+/* Input Field Style */
+input {
+    padding: 5px;
+}
+
+/* Button Style */
+button {
+    padding: 5px;
+    cursor: pointer;
+}
+
+/* Task List Section Style */
+li {
+    text-align: justify;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+/* Footer Style */
+span {
+    color: red;
+}
